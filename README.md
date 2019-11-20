@@ -4,7 +4,7 @@ The user will be presented with a menu of three options:
 
 1.Enter a new car.\
    • *Asks user seperately for the year,make, and model of the car.*\
-   • *Formats these values into a single string and appends it to another file.*\
+   • *Formats these values into a single string and appends it to another file.*
 
 2.Display the list of cars.\
    • *Uses "sort" command to display the lines of the file in orderd based on year.*
